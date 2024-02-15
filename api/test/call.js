@@ -83,7 +83,7 @@ describe('Call.js', () => {
                 .set('content-type', 'application/x-www-form-urlencoded')
                 .send({
                     password: config.apipassword,
-                    to: '3312345678',
+                    to: '254750133420',
                     user: 'test',
                     service: 'test'
                 })
